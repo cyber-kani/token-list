@@ -7974,6 +7974,20 @@
         "twitter": "https://twitter.com/ChikinDev"
       }
     },
+     {
+      "chainId": 101,
+      "address": "DwuFR3LnBSpRdf7hZ19pLa27XyJDq1j8Y9jVcWG66HVa",
+      "symbol": "VTA",
+      "name": "VINOTA",
+      "decimals": 9,
+      "logoURI": "https://vinota.com/img/tele.png",
+      "tags": [
+        "stablecoin"
+      ],
+      "extensions": {
+        "website": "https://www.vinota.com/"
+      }
+    },
     {
       "chainId": 101,
       "address": "8b9mQo6ZU2rwZQgSFqGNQvXzrUSHDTRpKSKi9XXdGmqN",
